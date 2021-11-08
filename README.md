@@ -1,7 +1,7 @@
 # FIT0826
 # Fuckyou
 
-
+int double char long
 
 테스트
 TEST
