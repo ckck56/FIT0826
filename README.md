@@ -6,6 +6,8 @@
 
 int double char long
 
+
+what the fk is g o
 테스트
 TEST
 
